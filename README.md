@@ -1,0 +1,2 @@
+# Signos_atualizados
+ Programa Signo do dia, proposta do projeto oferecido pela Dev Media em uma versão melhorada módulos através do import/export com configurações interpretadas pelo node através do arquivo package.json, o objetivo do projeto e retornar um signo atual de acordo com a data atual do sistema,  a melhora do código ocorre através  de dados e funções que são responsáveis por comparar datas e retornar dados dos signos.  Gostou? veja no repositório o código completo analise e deixe sua opinião sobre o código, aceito críticas.
